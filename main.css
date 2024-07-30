@@ -1,0 +1,17 @@
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 24px;
+}
+
+body {
+background-color: black;
+}
+
+.container {
+    background-color: white;
+    padding: 54px;
+    border-radius: 80px;
+}
